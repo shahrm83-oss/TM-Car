@@ -1,4 +1,4 @@
-# Terrier Motorsport-Car
+# Terrier Motorsport Car
 The design process for the onboarding project for Terrier Motorsport. This was a battery-powered real wheel motor car.
 
 ## What I did
